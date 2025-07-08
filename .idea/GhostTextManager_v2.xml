@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GhostTextManager">
+    <option name="inputs">
+      <map>
+        <entry key="For following code:&#10;```&#10;                                pagerState.animateScrollToPage(&#10;                                    (pagerState.currentPage + 1).coerceAtMost(drinkList.size - 1)&#10;                            }&#10;```&#10;We have the error: Expecting ')'&#10;Fix this.">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751339965992" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="For following code:&#10;```&#10;        } else {&#10;            snap&lt;&gt;(0)&#10;        }&#10;```&#10;We have the error: Type expected&#10;Fix this.">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751492007498" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
