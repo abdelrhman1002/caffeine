@@ -157,7 +157,7 @@ fun SweatPager(
                 (pageOffset + 1f) / -1f
             )
             pageOffset < 0f -> screenHeight.value * 0.15f * pageOffset
-            else -> screenHeight.value * 0.6f * pageOffset
+            else -> screenHeight.value * 0.45f * pageOffset
         }
         val pageIndexDiff = page - pagerState.currentPage
 
